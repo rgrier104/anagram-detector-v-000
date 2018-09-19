@@ -15,8 +15,8 @@ class Anagram
         matches << word
       end
     end
-  matches
-end
+    matches
+  end
 
 
 end
